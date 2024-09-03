@@ -21,14 +21,6 @@
 # TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE
 # SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 
-from enum import Enum
-
-
-class EmailProvider(str, Enum):
-    GMAIL = 'gmail'
-    MAILJET = 'mailjet'
-
-
 # The mapping between the most common file extensions and their
 # corresponding Multipurpose Internet Mail Extensions (MIME) types.
 #
