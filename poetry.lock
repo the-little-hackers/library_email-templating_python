@@ -471,7 +471,7 @@ python-dateutil = "^2.9.0.post0"
 type = "git"
 url = "git@github.com:the-little-hackers/library_thelittlehackers-core_python.git"
 reference = "HEAD"
-resolved_reference = "e195473d2e064168b7632c57a3ed257969e6e0cb"
+resolved_reference = "bdc6bd0499cd74608549146197f4b175b731cbb7"
 
 [[package]]
 name = "tomli"
